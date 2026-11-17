@@ -10,6 +10,25 @@ Whether you are a retailer, wholesaler, manufacturer, distributor, or startup, w
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+**Home**
+
+![Home](screenshots/1-home.png)
+
+**Admin Dashboard**
+
+![Admin Dashboard](screenshots/2-admin.png)
+
+<table>
+  <tr>
+    <td align="center" width="260"><b>Mobile View</b><br><br><img src="screenshots/3-mobile.png" alt="Mobile View" width="240"></td>
+  </tr>
+</table>
+
+---
+
 ## What Is a Single Vendor E-commerce Platform?
 
 A single-vendor e-commerce platform is an online shopping system where one business or seller manages the complete store.
@@ -287,20 +306,3 @@ Whether you are launching a new online store or modernizing an existing e-commer
 This repository serves as a service and project showcase for single-vendor e-commerce platform development by Naya Prayog Technologies.
 
 It does not grant permission to redistribute, resell, or commercially reuse proprietary company materials or software. Project-specific source code, deliverables, and licensing terms are agreed separately.
-
-<!-- screenshots -->
-## Screenshots
-
-**Home**
-
-![Home](screenshots/1-home.png)
-
-**Admin Dashboard**
-
-![Admin Dashboard](screenshots/2-admin.png)
-
-<table>
-  <tr>
-    <td align="center" width="260"><b>Mobile View</b><br><br><img src="screenshots/3-mobile.png" alt="Mobile View" width="240"></td>
-  </tr>
-</table>
